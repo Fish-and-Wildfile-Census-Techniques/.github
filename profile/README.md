@@ -8,14 +8,13 @@ The schedule is available on: <https://cloud.timeedit.net/slu/web/staff2/riqvoQ6
 
 ## Available repos:
 
--   [Introduction to R](../../R-intro)
+-   [Introduction to R](../../../R-intro)
 
--   [Distance Sampling](../../DistanceSampling)
+-   [Distance Sampling](../../../DistanceSampling)
 
--   [Mark Recapture](../../MarkRecapture)
+-   [Mark Recapture](../../../MarkRecapture)
 
--   [Electrofishing](../../Electrofishing)
-
+-   [Electrofishing](../../../Electrofishing)
 
 ```{=html}
 <!--
