@@ -1,4 +1,5 @@
 ## Welcome to Fish and Wildlife Census Techniques
+This is the github for the course "Fish and Wildlife Census Techniques" at Swedish University of Agricultural Sciences.
 On this github you will find repositories (i.e. folders with collections of files) for the R labs in this course.
 
 The main information site for the course in its Canvas page: https://slu-se.instructure.com/courses/9215
