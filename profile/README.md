@@ -19,5 +19,5 @@ The schedule is available on: <https://cloud.timeedit.net/slu/web/staff2/riqvoQ6
 -   [Camera traps](../../../Camera-traps)
 
 ## Contacts
-[Navinder Singh](mailto:navinder.signh@slu.se) amd [Anders Kagervall](mailto:anders.kagervall@slu.se)
+[Navinder Singh](mailto:navinder.signh@slu.se) and [Anders Kagervall](mailto:anders.kagervall@slu.se)
 
