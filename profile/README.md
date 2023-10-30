@@ -8,17 +8,17 @@ The schedule is available on: <https://cloud.timeedit.net/slu/web/staff2/riqvoQ6
 
 ## Available repos:
 
--   [Introduction to R](../../R-intro)
+-   [Introduction to R](https://github.com/Fish-and-Wildlife-Census-Techniques/R-intro)
 
--   [Distance Sampling](../../DistanceSampling)
+-   [Distance Sampling](https://github.com/Fish-and-Wildlife-Census-Techniques/DistanceSampling)
 
--   [Mark Recapture](../../MarkRecapture)
+-   [Mark Recapture](https://github.com/Fish-and-Wildlife-Census-Techniques/MarkRecapture)
 
--   [Electrofishing](../../Electrofishing)
+-   [Electrofishing](https://github.com/Fish-and-Wildlife-Census-Techniques/Electrofishing)
 
--   [Camera traps](../../Camera-traps)
+-   [Camera traps](https://github.com/Fish-and-Wildlife-Census-Techniques/Camera-traps)
 
--   [Estimating Diversity](../../Estimating-Diversity) 
+-   [Estimating Diversity](https://github.com/Fish-and-Wildlife-Census-Techniques/Estimating-Diversity) 
 
 ## Contacts
 [Navinder Singh](mailto:navinder.signh@slu.se) and [Anders Kagervall](mailto:anders.kagervall@slu.se)
